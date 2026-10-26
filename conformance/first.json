@@ -1,0 +1,557 @@
+{
+  "domain": "all spanning edge subsets of Q3",
+  "full_cube_cycles": {
+    "4": 6,
+    "6": 16,
+    "8": 6
+  },
+  "envelopes": [
+    {
+      "edges": 0,
+      "subgraphs": 1,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        }
+      ]
+    },
+    {
+      "edges": 1,
+      "subgraphs": 12,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        }
+      ]
+    },
+    {
+      "edges": 2,
+      "subgraphs": 66,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        }
+      ]
+    },
+    {
+      "edges": 3,
+      "subgraphs": 220,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        }
+      ]
+    },
+    {
+      "edges": 4,
+      "subgraphs": 495,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 1
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        }
+      ]
+    },
+    {
+      "edges": 5,
+      "subgraphs": 792,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 1
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        }
+      ]
+    },
+    {
+      "edges": 6,
+      "subgraphs": 924,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 1
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 1
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        }
+      ]
+    },
+    {
+      "edges": 7,
+      "subgraphs": 792,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 2
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 1
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        }
+      ]
+    },
+    {
+      "edges": 8,
+      "subgraphs": 495,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 2
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 2
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 1
+        }
+      ]
+    },
+    {
+      "edges": 9,
+      "subgraphs": 220,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 3
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 4
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 1
+        }
+      ]
+    },
+    {
+      "edges": 10,
+      "subgraphs": 66,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 2,
+          "maximum": 3
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 2,
+          "maximum": 4
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 1
+        }
+      ]
+    },
+    {
+      "edges": 11,
+      "subgraphs": 12,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 4,
+          "maximum": 4
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 8,
+          "maximum": 8
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 2,
+          "maximum": 2
+        }
+      ]
+    },
+    {
+      "edges": 12,
+      "subgraphs": 1,
+      "strata": [
+        {
+          "length": 4,
+          "support": 2,
+          "minimum": 6,
+          "maximum": 6
+        },
+        {
+          "length": 4,
+          "support": 3,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 6,
+          "support": 3,
+          "minimum": 16,
+          "maximum": 16
+        },
+        {
+          "length": 8,
+          "support": 2,
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "length": 8,
+          "support": 3,
+          "minimum": 6,
+          "maximum": 6
+        }
+      ]
+    }
+  ],
+  "status": "finite exact envelopes only; no dimension-uniform extremal theorem"
+}
